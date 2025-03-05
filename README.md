@@ -1,4 +1,4 @@
-# hellow_wordl
+# Counter
 
 A new Flutter project.
 
